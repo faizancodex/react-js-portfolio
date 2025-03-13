@@ -7,7 +7,7 @@ export default function HeroSection() {
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">Full Stack</span>{" "}
             <br />
-            Python Developer
+            Mern Developer
           </h1>
           <p className="hero--section-description">
             Passionate about building scalable web applications and solve real-world problems.
