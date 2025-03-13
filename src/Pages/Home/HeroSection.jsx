@@ -7,7 +7,7 @@ export default function HeroSection() {
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">Full Stack</span>{" "}
             <br />
-            Mern Developer
+            Python Developer
           </h1>
           <p className="hero--section-description">
             Passionate about building scalable web applications and solve real-world problems.
@@ -15,7 +15,7 @@ export default function HeroSection() {
           </p>
         </div>
         <button
-          onClick={() => document.getElementById("first-name").focus()}
+          onClick={() => document.getElementById("first-name").focus()}sts
           className="btn contact-btn btn-primary"
         >
           Get In Touch
