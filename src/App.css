@@ -188,7 +188,7 @@ a {
 .hero--section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 133.333px 7vw;
+  padding: 133px 7vw;
   align-items: center;
   justify-content: space-between;
   gap: 32px;
@@ -210,9 +210,9 @@ a {
 }
 .hero--section--title {
   color: var(--heading-color);
-  font-size: 74px;
+  font-size: 70px;
   font-weight: 700;
-  line-height: 90px;
+  line-height: 85px;
   align-self: stretch;
 }
 .hero--section--title--color {
@@ -234,7 +234,7 @@ a {
 /* Skills Section Style */
 .skills--section {
   display: flex;
-  padding: 112px 7vw;
+  padding: 20px 7vw;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
@@ -667,6 +667,10 @@ input[type="checkbox"] {
   .hero--section--content--box {
     align-items: center;
     text-align: center;
+  }
+  .skills--section{
+    padding: 120px;
+
   }
   .portfolio--container-box {
     gap: 30px;

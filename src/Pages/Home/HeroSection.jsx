@@ -22,7 +22,7 @@ export default function HeroSection() {
         </button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/pic.png" alt="Hero Section" />
+        <img src="./img/home-right.png" alt="Hero Section" />
       </div>
     </section>
   );
