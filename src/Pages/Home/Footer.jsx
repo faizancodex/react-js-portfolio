@@ -3,7 +3,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebookF,
-  faInstagram,
+  faGithub,
   faLinkedinIn,
   faXTwitter,
 } from "@fortawesome/free-brands-svg-icons";
@@ -138,7 +138,7 @@ function Footer() {
                 href="https://www.instagram.com/thefaizankhan._/"
                 target="blank"
               >
-                <FontAwesomeIcon icon={faInstagram} />
+                <FontAwesomeIcon icon={faGithub} />
               </a>
             </li>
           </ul>
