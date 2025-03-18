@@ -135,7 +135,7 @@ function Footer() {
             <li>
               <a
                 className="fa--icon"
-                href="https://www.instagram.com/thefaizankhan._/"
+                href="https://github.com/faizancodex"
                 target="blank"
               >
                 <FontAwesomeIcon icon={faGithub} />
