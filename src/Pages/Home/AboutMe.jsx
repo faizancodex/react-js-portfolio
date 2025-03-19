@@ -26,7 +26,7 @@ export default function AboutMe() {
           </p>
         </div>
 
-        <a href="/resume.pdf" download className="btn contact-btn btn-primary">
+        <a href="/Resume.pdf" download className="btn contact-btn btn-primary">
           Resume
         </a>
       </div>
