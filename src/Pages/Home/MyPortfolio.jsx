@@ -14,7 +14,7 @@ export default function MyPortfolio() {
         <div>
           <a
             className="btn btn-github btn-primary"
-            href="https://github.com/FaizanCode102"
+            href="https://github.com/faizancodex"
             target="blank"
           >
             <FontAwesomeIcon className="github--icon" icon={faGithub} />
