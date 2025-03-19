@@ -88,12 +88,12 @@ function Footer() {
                 className="footer--items--links"
                 href="mailto:faizank9058@gmail.com"
               >
-                faizank9058@gmail.com
+                faizankhansup@gmail.com
               </a>
             </li>
             <li>
-              <a className="footer--items--links" href="tel:+911187961267">
-                9389612947
+              <a className="footer--items--links" href="tel:+919389612947">
+                +919389612947
               </a>
             </li>
           </ul>
