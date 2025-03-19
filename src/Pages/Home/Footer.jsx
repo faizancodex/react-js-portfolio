@@ -86,7 +86,7 @@ function Footer() {
             <li>
               <a
                 className="footer--items--links"
-                href="mailto:faizank9058@gmail.com"
+                href="mailto:faizankhansup@gmail.com"
               >
                 faizankhansup@gmail.com
               </a>
